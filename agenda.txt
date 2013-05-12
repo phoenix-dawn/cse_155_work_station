@@ -1,0 +1,69 @@
+agenda:
+	
+	meeting:
+	
+	brain storm the better google
+	make the future plan (announcement)
+		uwexchanger:
+			uwexchanger is almost ok now, what it need is to make ads,
+			I have already contacted with bulk email stuff, 
+			他们的意思是如果我们要这么做，必须要获得类似于副系主任的支持
+			So, we'd better go to contact with registration office or 
+			uw it to get their support first.
+			
+			For the programming stuff, we will still keep on making the
+			instant message system that based on careercup. All we need
+			to do is to make what we do better.
+			
+			And, it's mostly for practising of future projects
+			
+		better Google:
+			We will start to do this no later than second weed of Spring quarter
+			
+			(I draw the graph, use the already exist document to state my
+			opinion. And then, welcome all others to make their judges)
+			
+			
+	programming:
+		everyone should make the style of them just like careercup
+
+		du junqiu:
+		combine all the elements to form the bottom chatline
+		:<send>
+
+		sun di:
+		:<boxButton>
+		
+
+
+
+
+
+
+		guo yuhao:
+		:<messageBox>
+		:<inputBox>
+		
+
+
+
+
+
+		zhu zhiting:
+		function sendMessage(chatBoxId);
+		function changeChatBoxDisplay(chatBoxId);
+
+
+
+
+document.getElementById("aaa").;
+
+
+
+var a = "chatBox"+chatBoxId;
+
+var b = document.getElementById(a);
+
+b.innerHTML = "<div></div>";
+
+				
